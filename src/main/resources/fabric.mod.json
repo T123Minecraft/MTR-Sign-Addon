@@ -3,15 +3,18 @@
 	"id": "mtrsignaddon",
 	"version": "${version}",
 	"name": "MTR Sign Addon Unofficial Fork",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "This is an unofficial fork of the MTR Sign Addon mod.",
 	"authors": [
-		"Me!"
-	],
+		"MarcusIsLion"
+		],
+	"contributors": [
+		"T123Minecraft"
+		],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"sources": "https://github.com/T123Minecraft/MTR-Sign-Addon",
+		"issues": "https://github.com/T123Minecraft/MTR-Sign-Addon/issues"
 	},
-	"license": "CC0-1.0",
+	"license": "GPL-3.0-only",
 	"icon": "assets/mtrsignaddon/icon.png",
 	"environment": "*",
 	"entrypoints": {
@@ -26,9 +29,12 @@
 		"mtrsignaddon.mixins.json"
 	],
 	"depends": {
-		"fabricloader": ">=0.19.2",
+		"fabricloader": ">=0.15.11",
 		"minecraft": "~1.20.1",
 		"java": ">=17",
 		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
 	}
 }
