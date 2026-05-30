@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "mtrsignaddon:block/switchohgroundsignblock"
+    },
+    "facing=south": {
+      "model": "mtrsignaddon:block/switchohgroundsignblock",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "mtrsignaddon:block/switchohgroundsignblock",
+      "y": 270
+    },
+    "facing=east": {
+      "model": "mtrsignaddon:block/switchohgroundsignblock",
+      "y": 90
+    }
+  }
+}

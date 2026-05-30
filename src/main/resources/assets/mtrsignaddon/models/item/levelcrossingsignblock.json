@@ -1,0 +1,6 @@
+{
+  "parent": "mtrsignaddon:block/levelcrossingsignblock",
+  "textures": {
+    "layer0": "mtrsignaddon:item/levelcrossingsignblock"
+  }
+}

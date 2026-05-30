@@ -1,0 +1,6 @@
+{
+  "parent": "mtrsignaddon:block/plateformelsignblock",
+  "textures": {
+    "layer0": "mtrsignaddon:item/plateformelsignblock"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "mtrsignaddon:block/heitysignblock",
+  "textures": {
+    "layer0": "mtrsignaddon:item/heitysignblock"
+  }
+}

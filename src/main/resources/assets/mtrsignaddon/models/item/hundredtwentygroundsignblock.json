@@ -1,0 +1,6 @@
+{
+  "parent": "mtrsignaddon:block/hundredtwentygroundsignblock",
+  "textures": {
+    "layer0": "mtrsignaddon:item/hundredtwentygroundsignblock"
+  }
+}

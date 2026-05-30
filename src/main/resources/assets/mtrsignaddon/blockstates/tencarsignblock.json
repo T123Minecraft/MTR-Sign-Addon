@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "mtrsignaddon:block/tencarsignblock"
+    },
+    "facing=south": {
+      "model": "mtrsignaddon:block/tencarsignblock",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "mtrsignaddon:block/tencarsignblock",
+      "y": 270
+    },
+    "facing=east": {
+      "model": "mtrsignaddon:block/tencarsignblock",
+      "y": 90
+    }
+  }
+}

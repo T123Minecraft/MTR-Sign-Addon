@@ -1,0 +1,6 @@
+{
+  "parent": "mtrsignaddon:block/fourteencarsignblock",
+  "textures": {
+    "layer0": "mtrsignaddon:item/fourteencarsignblock"
+  }
+}

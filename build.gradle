@@ -29,9 +29,9 @@ dependencies {
 	// Fabric API. This is technically optional, but you probably want it anyway.
 	modImplementation "net.fabricmc.fabric-api:fabric-api:${project.fabric_api_version}"
 
-	// 将原模组 jar 作为 modImplementation 依赖
-	modImplementation fileTree(dir: 'libs', include: '*.jar')git branch
-	
+	// 注释掉其他的依赖声明，确保只保留下面这一行
+	modImplementation fileTree(dir: 'libs', include: ['*.jar'])
+
 }
 
 processResources {

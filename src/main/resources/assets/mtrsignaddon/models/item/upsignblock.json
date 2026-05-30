@@ -1,0 +1,6 @@
+{
+  "parent": "mtrsignaddon:block/upsignblock",
+  "textures": {
+    "layer0": "mtrsignaddon:item/upsignblock"
+  }
+}

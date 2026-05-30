@@ -1,0 +1,6 @@
+{
+  "parent": "mtrsignaddon:block/noventgroundsignblock",
+  "textures": {
+    "layer0": "mtrsignaddon:item/noventgroundsignblock"
+  }
+}

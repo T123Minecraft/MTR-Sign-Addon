@@ -1,0 +1,6 @@
+{
+  "parent": "mtrsignaddon:block/wheezingsignblock",
+  "textures": {
+    "layer0": "mtrsignaddon:item/wheezingsignblock"
+  }
+}

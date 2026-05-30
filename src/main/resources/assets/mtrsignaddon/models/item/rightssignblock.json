@@ -1,0 +1,6 @@
+{
+  "parent": "mtrsignaddon:block/rightssignblock",
+  "textures": {
+    "layer0": "mtrsignaddon:item/rightssignblock"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "mtrsignaddon:block/sixtygallows",
+  "textures": {
+    "layer0": "mtrsignaddon:item/sixtygallows"
+  }
+}

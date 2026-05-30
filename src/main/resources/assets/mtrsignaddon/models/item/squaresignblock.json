@@ -1,0 +1,6 @@
+{
+  "parent": "mtrsignaddon:block/squaresignblock",
+  "textures": {
+    "layer0": "mtrsignaddon:item/squaresignblock"
+  }
+}

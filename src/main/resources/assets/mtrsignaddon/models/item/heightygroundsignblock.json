@@ -1,0 +1,6 @@
+{
+  "parent": "mtrsignaddon:block/heightygroundsignblock",
+  "textures": {
+    "layer0": "mtrsignaddon:item/heightygroundsignblock"
+  }
+}

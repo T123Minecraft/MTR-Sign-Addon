@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "mtrsignaddon:block/polehorizontalconnection"
+    },
+    "facing=south": {
+      "model": "mtrsignaddon:block/polehorizontalconnection",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "mtrsignaddon:block/polehorizontalconnection",
+      "y": 270
+    },
+    "facing=east": {
+      "model": "mtrsignaddon:block/polehorizontalconnection",
+      "y": 90
+    }
+  }
+}

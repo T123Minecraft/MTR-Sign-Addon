@@ -1,0 +1,6 @@
+{
+  "parent": "mtrsignaddon:block/switchthgroundsignblock",
+  "textures": {
+    "layer0": "mtrsignaddon:item/switchthgroundsignblock"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "mtrsignaddon:block/polemiddleconnection",
+  "textures": {
+    "layer0": "mtrsignaddon:item/polemiddleconnection"
+  }
+}

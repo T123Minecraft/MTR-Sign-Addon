@@ -1,0 +1,6 @@
+{
+  "parent": "mtrsignaddon:block/fourtysignblock",
+  "textures": {
+    "layer0": "mtrsignaddon:item/fourtysignblock"
+  }
+}

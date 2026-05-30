@@ -1,0 +1,6 @@
+{
+  "parent": "mtrsignaddon:block/endgroundsignblock",
+  "textures": {
+    "layer0": "mtrsignaddon:item/endgroundsignblock"
+  }
+}

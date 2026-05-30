@@ -1,0 +1,6 @@
+{
+  "parent": "mtrsignaddon:block/poleleftconnection",
+  "textures": {
+    "layer0": "mtrsignaddon:item/polerightconnection"
+  }
+}

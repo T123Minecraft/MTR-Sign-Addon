@@ -1,0 +1,6 @@
+{
+  "parent": "mtrsignaddon:block/sixtygroundsignblock",
+  "textures": {
+    "layer0": "mtrsignaddon:item/sixtygroundsignblock"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "mtrsignaddon:block/heightcarsignblock",
+  "textures": {
+    "layer0": "mtrsignaddon:item/heightcarsignblock"
+  }
+}

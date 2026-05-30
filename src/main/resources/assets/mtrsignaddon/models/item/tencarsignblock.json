@@ -1,0 +1,6 @@
+{
+  "parent": "mtrsignaddon:block/tencarsignblock",
+  "textures": {
+    "layer0": "mtrsignaddon:item/tencarsignblock"
+  }
+}

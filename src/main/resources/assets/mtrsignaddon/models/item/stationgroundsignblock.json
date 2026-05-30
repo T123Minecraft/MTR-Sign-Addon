@@ -1,0 +1,6 @@
+{
+  "parent": "mtrsignaddon:block/stationgroundsignblock",
+  "textures": {
+    "layer0": "mtrsignaddon:item/stationgroundsignblock"
+  }
+}

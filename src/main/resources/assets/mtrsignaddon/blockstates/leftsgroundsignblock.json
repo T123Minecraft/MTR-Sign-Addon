@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "mtrsignaddon:block/leftsgroundsignblock"
+    },
+    "facing=south": {
+      "model": "mtrsignaddon:block/leftsgroundsignblock",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "mtrsignaddon:block/leftsgroundsignblock",
+      "y": 270
+    },
+    "facing=east": {
+      "model": "mtrsignaddon:block/leftsgroundsignblock",
+      "y": 90
+    }
+  }
+}

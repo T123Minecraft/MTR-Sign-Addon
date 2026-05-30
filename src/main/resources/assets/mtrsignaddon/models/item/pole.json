@@ -1,0 +1,6 @@
+{
+  "parent": "mtrsignaddon:block/pole",
+  "textures": {
+    "layer0": "mtrsignaddon:item/pole"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "mtrsignaddon:block/depotgroundsignblock",
+  "textures": {
+    "layer0": "mtrsignaddon:item/depotgroundsignblock"
+  }
+}

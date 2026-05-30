@@ -1,0 +1,6 @@
+{
+  "parent": "mtrsignaddon:block/tunnelsignblock",
+  "textures": {
+    "layer0": "mtrsignaddon:item/tunnelsignblock"
+  }
+}

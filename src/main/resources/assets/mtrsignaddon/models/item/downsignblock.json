@@ -1,0 +1,6 @@
+{
+  "parent": "mtrsignaddon:block/downsignblock",
+  "textures": {
+    "layer0": "mtrsignaddon:item/downsignblock"
+  }
+}
